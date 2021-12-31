@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">kalkulatorr</string>
+    <string name="shared_key">SaveNotesKey</string>
+    <string name="hasil_key">HasilNotesKey</string>
+</resources>
